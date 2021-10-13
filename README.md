@@ -3,10 +3,10 @@
 ## test and learn 'git command'
 
 # Acquis :
-- Git init add commit push clone
+- Git init add commit push clone OK
+- Gitignore OK
+- branch OK
+- Connaitre les branch sur depot distant OK
 
 # A faire : 
-- Quest ce qu'un Gitignore
-- maitriser le système de branch.
-- Connaitre les branch sur le depot distant.
-- Etre à l'aise avec GitHub
+- Pratiquer
