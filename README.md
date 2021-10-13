@@ -1,3 +1,3 @@
-### Test Manip
+# Test Manip
 
-# test and learn git command
+## test and learn git command
